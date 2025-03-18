@@ -1,6 +1,6 @@
 # Olá, eu sou Hugo! 👋
 
-🎓 Sou Aluno do Senac e estudando Desenvolvimento de sistema. e apaixonado por tecnologia e aprendizado contínuo.
+🎓 Sou Aluno do Senac, estudando Desenvolvimento de sistema e tentando aprimorar cada vez mais minhas linguagens e conhecientos na area. 
 
 ## Sobre mim
 - 🌱 Atualmente estou aprendendo [  java native cloud  ].
@@ -9,16 +9,14 @@
 - 📫 Como entrar em contato comigo: [Hugoaraujope1@gmail.com ].
 
 ## Habilidades e Ferramentas
-Aqui estão algumas das tecnologias e ferramentas que estou estudando ou utilizando:
-
 - **Linguagens de Programação**: [ex: Python, JavaScript, Java, etc.]
 - **Ferramentas**: [ex: Git,GitHub, VS Code, etc.]
   
 
 
-## Vamos nos conectar!
+## contato!
 - [LinkedIn](https://www.linkedin.com/in/hugo-araujo-079abb356/)
 
 
 
-🌟 Estou sempre disposto a aprender e a observar suas sugestões e novas oportunidades de aprendizado. Vamos construir algo incrível juntos!
+🌟 Estou sempre disposto a aprender e escutar sugestões 
