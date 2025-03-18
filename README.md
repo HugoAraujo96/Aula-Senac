@@ -6,15 +6,14 @@
 - 🌱 Atualmente estou aprendendo [  java native cloud  ].
 - 🔭 Estou trabalhando em projetos pessoais para aprimorar minhas habilidades.
 - 📚 Foco em [plicações Java modernas que são projetadas para operar em ambientes de nuvem ].
-- 📫 Como entrar em contato comigo: [Hugoaraujope1@gmail.com ou pelo instagram @huugoaraujo].
+- 📫 Como entrar em contato comigo: [Hugoaraujope1@gmail.com ].
 
 ## Habilidades e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas que estou estudando ou utilizando:
 
 - **Linguagens de Programação**: [ex: Python, JavaScript, Java, etc.]
 - **Ferramentas**: [ex: Git,GitHub, VS Code, etc.]
-- **Frameworks/Bibliotecas**: [ex: React, Bootstrap, Flask, etc.]
-
+  
 
 
 ## Vamos nos conectar!
