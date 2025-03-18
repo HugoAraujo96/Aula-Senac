@@ -9,7 +9,7 @@
 - 📫 Como entrar em contato comigo: [Hugoaraujope1@gmail.com ].
 
 ## Habilidades e Ferramentas
-- **Linguagens de Programação**: [ex: Python, JavaScript, Java, etc.]
+- **Linguagens de Programação**: [ex: Python (basico), JavaScript (basico), HTML E CSS (basico) , Java (basico).]
 - **Ferramentas**: [ex: Git,GitHub, VS Code, etc.]
   
 
