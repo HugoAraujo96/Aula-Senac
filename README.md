@@ -1,6 +1,6 @@
 # Olá, eu sou Hugo! 👋
 
-🎓 Sou Aluno do Senac e #estudando Desenvolvimento de sistema#. e apaixonado por tecnologia e aprendizado contínuo.
+🎓 Sou Aluno do Senac e #estudando Desenvolvimento de sistema. e apaixonado por tecnologia e aprendizado contínuo.
 
 ## Sobre mim
 - 🌱 Atualmente estou aprendendo [  java native cloud  ].
